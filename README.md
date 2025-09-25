@@ -1,7 +1,7 @@
 # Tic Tac Toe
-This is a simple **Tic Tac Toe game**  
+This is a simple **Tic Tac Toe game**
 built using **HTML, CSS, and JavaScript**.  
-Two players (X and O) can play against  
+Two players (X and O) can play against
 each other and enjoy interactive gameplay.  
 
 ---
@@ -23,5 +23,6 @@ horizontally,vertically,or diagonally wins.
 ---
 ## Live Demo
 play the game online:  
-[Play Tic Tac Toe](https://sapnasapna-wq.github.io/TIC---TAC----TOE)
+[Play Tic Tac Toe]  
+(https://sapnasapna-wq.github.io/TIC---TAC----TOE)
 
