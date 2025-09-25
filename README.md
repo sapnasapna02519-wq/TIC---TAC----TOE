@@ -24,5 +24,5 @@ horizontally,vertically,or diagonally wins.
 ## Live Demo
 play the game online:  
 [Play Tic Tac Toe]  
-(https://sapnasapna-wq.github.io/TIC---TAC----TOE)
+(https://sapnasapna02519-wq.github.io/TIC---TAC----TOE)
 
