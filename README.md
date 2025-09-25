@@ -6,7 +6,7 @@ each other and enjoy interactive gameplay.
 
 ---
 ## Features
-- Interactive gameplay with two players (X amd Y)  
+- Interactive gameplay with two players (X and Y)  
 - Turn-based system  
 - Reset button to start a new game  
 - Simple and responsive design  
